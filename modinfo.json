@@ -1,0 +1,15 @@
+{
+"Type": "content",
+"Name": "Grass to Ropes",
+"Version": "1.0.0",
+"NetworkVersion": "null",
+"Description": "A simple mod that enables crafting ropes from grass, in the same fashion as cattails. For Zaldarr.",
+"Website": "",
+"ModID": "grasstoropes",
+"Authors": ["BulletSponge"],
+"Contributors": [],
+"Side": "Universal",
+"RequiredOnClient": true,
+"REquiredOnServer": true,
+"Dependencies": {}
+}
