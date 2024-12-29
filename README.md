@@ -13,4 +13,5 @@ Currently it's possible to create baskets from dry grass bundles, then deconstru
  
 
 
-Previous version (v1.0.0) is purely grass to ropes only
+
+>Previous version (v1.0.0) is purely grass to ropes only
