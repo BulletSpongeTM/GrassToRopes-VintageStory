@@ -1,0 +1,11 @@
+[
+	{
+		ingredientPattern: "B_B	BBB",
+		ingredients: {
+			"B": { type: "item", code: "grasstoropes:grassbundle", quantity: 2 }
+		},
+		width: 3,
+		height: 2,
+		output: { type: "item", code: "game:basket" }
+	}
+]
