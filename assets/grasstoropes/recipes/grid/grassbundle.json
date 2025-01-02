@@ -11,7 +11,7 @@
 	{
 		ingredientPattern: "KB",
 		ingredients: {
-			"K": { type: "item", code: "game:knife-*", isTool: true, "toolDurabilityCost": 1 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, "toolDurabilityCost": 0 },
 			"B": { type: "item", code: "grasstoropes:grassbundle", quantity: 1 }
 		},
 		width: 2,
@@ -21,7 +21,7 @@
 	{
 		ingredientPattern: "KB",
 		ingredients: {
-			"K": { type: "item", code: "game:knife-*", isTool: true, "toolDurabilityCost": 1 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, "toolDurabilityCost": 0 },
 			"B": { type: "item", code: "game:cattailtops", quantity: 1 }
 		},
 		width: 2,

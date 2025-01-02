@@ -1,7 +1,9 @@
 {
 	"code": "grassbundle",
 	"creativeinventory": { 
-		"general": [ "*" ] 
+		"general": [ "*" ],
+		"items": ["*"],
+		"grasstoropes": [ "*" ]
 	},
 	"texture": { 
 		"base": "item/grassbundle.png" },
