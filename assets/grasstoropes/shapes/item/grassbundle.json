@@ -8,8 +8,8 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"grassbundle-bundle": "item/grassbundle-tie.png",
-		"grassbundle-tie": "item/grassbundle-bundle.png"
+		"grassbundle-tie": "item/grassbundle-tie.png",
+		"grassbundle-bundle": "item/grassbundle-bundle.png"
 	},
 	"elements": [
 		{
