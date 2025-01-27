@@ -14,7 +14,7 @@
 		{ "name": "GroundStorable", "properties": { "layout": "Quadrants", "collisionBox": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.125, "z2": 1 } } }
 	],
 	"attributes": {
-		"placeSound": "block/plant",
+		"placeSound": "game:block/plant",
 		"groundStorageTransform": {
 			"rotation": { "x": 0, "y": -30, "z": 0 },
 			"translation": { "x": 0, "y": -0.35, "z": 0 },

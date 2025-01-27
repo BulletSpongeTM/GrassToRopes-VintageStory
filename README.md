@@ -13,4 +13,4 @@ Also adds dry grass versions of Reed chest and Hand basket
  
 
 
->Previous version (v1.0.0) is purely grass to ropes only
+>Version 1.0.0 is purely for a recipe of turning dry grass into ropes.

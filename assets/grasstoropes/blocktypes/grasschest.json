@@ -5,8 +5,8 @@
 	"attributes": {
 		"inventoryClassName": "basket",
 		"defaultType": "grass",
-		"openSound": "sounds/block/basketopen",
-		"closeSound": "sounds/block/basketclose",
+		"openSound": "game:sounds/block/basketopen",
+		"closeSound": "game:sounds/block/basketclose",
 		"types": ["grass"],
 		"drop": {
 			"grass": true
@@ -102,8 +102,8 @@
 		}
 	},
 	"sounds": {
-		"place": "block/planks",
-		"walk": "walk/wood"
+		"place": "game:block/planks",
+		"walk": "game:walk/wood"
 	},
 	"materialDensity": 600,
 	"tpHandTransform": {
